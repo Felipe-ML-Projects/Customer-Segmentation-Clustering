@@ -10,7 +10,7 @@ K-means have shown to be innefective due to its model architecture, finding an o
 
 Hierarchical clustering is often more robust than k-means since it avoids random initialization and can detect complex, non-spherical cluster structures.
 
-Metrics for evaluation included Silhouette Score.
+Metrics for evaluation included Silhouette Score and Davies Bouldin Score.
 
 Summary statistics were used to determine the label for each clusters.
 
