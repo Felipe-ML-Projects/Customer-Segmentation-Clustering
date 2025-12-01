@@ -14,4 +14,6 @@ Metrics for evaluation included Silhouette Score and Davies Bouldin Score.
 
 Summary statistics were used to determine the label for each clusters.
 
+Decision Trees were also employed afterwards to find what features drive the outcome, for better explainability to business stakeholders.
+
 Unfortunately, the dataset was not complex enough to employ more advanced clustering algorithms (such as HDBSCAN), but it offers a practical experience.
